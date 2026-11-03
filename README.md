@@ -45,3 +45,5 @@ gh secret set ACR_LOGIN_SERVER --body "<registry>.azurecr.io"
 gh secret set ACR_USERNAME --body "<username>"
 gh secret set ACR_PASSWORD --body "<password>"
 ```
+
+Testing GitHub Actions pipeline.
